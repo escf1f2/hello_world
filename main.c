@@ -2,6 +2,6 @@
 
 int main(int argc, const char *argv[])
 {
-	printf("123\n");
+	printf("456\n");
 	return 0;
 }
